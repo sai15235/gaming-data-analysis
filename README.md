@@ -123,7 +123,8 @@ gaming-session-analytics/
 ## 👤 Author
 
 **Saikiranreddy**
-linkedin.com/in/saikiran-r717[](url) | [saikiranr717@gmail.com](url) |
+
+linkedin.com/in/saikiran-r717(url) | [saikiranr717@gmail.com](url) |
 
 ---
 
