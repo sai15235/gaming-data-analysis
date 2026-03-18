@@ -2,14 +2,21 @@
 
 ---
 
-
 > An end-to-end data analysis project exploring player behavior, in-game monetization patterns, platform performance, and suspicious activity detection across 500 gaming sessions spanning 5 titles.
 
 ---
-Dashboard.png[](url)
+
 ## 📌 Project Overview
 
 This case study analyzes a simulated gaming dataset to uncover actionable insights around player engagement, revenue generation, session quality, and anomaly detection. The analysis spans 5 games, 3 platforms, and 6 geographic regions — providing a multi-dimensional view of a gaming ecosystem.
+
+---
+
+## 📸 Dashboard Preview
+
+![Gaming Analytics Dashboard](Dashboard.png)
+
+> **Interactive Excel Dashboard** featuring 6 charts with slicers for Suspicious Flag, Made Purchase, Engagement Level, Platform, Year-Month, and Region. Charts include Monthly Active Players, Engagement Level Distribution, Purchase Behavior Split, Monthly Purchase Trend, Suspicious Behavior by Engagement Level, and Suspicious Activity Trend.
 
 ---
 
@@ -115,10 +122,8 @@ gaming-session-analytics/
 
 ## 👤 Author
 
-**[Your Name]**
-[LinkedIn] | [Email] | [Portfolio]
+**Saikiranreddy**
+linkedin.com/in/saikiran-r717[](url) | [saikiranr717@gmail.com](url) |
 
 ---
 
-
----
