@@ -1,19 +1,12 @@
 # Gaming Platform Player Transaction Analysis - Microsoft Excel🎮📊
 
-# 🎮 Gaming Session Analytics — Portfolio Kit
-
 ---
 
-## 1. GITHUB README
-
----
-
-# 🎮 Gaming Session Analytics — Player Behavior & Revenue Insights
 
 > An end-to-end data analysis project exploring player behavior, in-game monetization patterns, platform performance, and suspicious activity detection across 500 gaming sessions spanning 5 titles.
 
 ---
-
+Dashboard.png[](url)
 ## 📌 Project Overview
 
 This case study analyzes a simulated gaming dataset to uncover actionable insights around player engagement, revenue generation, session quality, and anomaly detection. The analysis spans 5 games, 3 platforms, and 6 geographic regions — providing a multi-dimensional view of a gaming ecosystem.
