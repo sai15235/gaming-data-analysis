@@ -1,4 +1,4 @@
-# Gaming Platform Player Transaction Analysis 🎮📊
+# Gaming Platform Player Transaction Analysis - Microsoft Excel🎮📊
 
 ## 📌 Project Overview
 This project analyzes player transactions from a gaming platform using Excel.  
